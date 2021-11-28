@@ -1,3 +1,3 @@
 # react-app-template
 
-Customized by [はむさんのオンラインスクール](https://diveintohacking.com/)
+[はむさんのオンラインスクール](https://diveintohacking.com/)
